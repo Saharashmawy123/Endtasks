@@ -1,0 +1,9 @@
+header{
+    min-height: 100vh;
+    background: 
+    linear-gradient(rgba(0, 0, 0, 0.7) , rgba(18, 18, 18, 0.7)) 
+    , url(../images/istockphoto-1342450736-612x612.jpg);
+
+    background-position: center;
+    background-size: cover;
+}
